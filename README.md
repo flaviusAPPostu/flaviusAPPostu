@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Neuroengineering and Biomedical Applications
 - 🌱 I’m currently learning UML, Javascript, C++ , Arduino
 - 💞️ I’m looking to collaborate on a Telegram AI Personal Assistant Bot, current development stage accessible @IntelligenTino_bot 
-- 📫 How to reach me @flaviusapostu@gmail.com
+- 📫 How to reach me @https://www.linkedin.com/in/flavius-apostu/
 
 <!---
 flaviusAPPostu/flaviusAPPostu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
